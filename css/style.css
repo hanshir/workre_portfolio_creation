@@ -1,16 +1,24 @@
 body{
 background-color:black;
 }
+
+
+
 h1{
     color: white;
     font-size: 40px;
     font-weight: bold;
 }
+
+
+
 .main{
 position: relative;
 margin-bottom: 100px;
 max-width: 100%;
 }
+
+
 
 .title{
     position: absolute;
@@ -28,6 +36,8 @@ max-width: 100%;
     font-size: 20px;
     font-weight: bold;
 }
+
+
 .see_resume{
     position: absolute;
     top: 48%;
